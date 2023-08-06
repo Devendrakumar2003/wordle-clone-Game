@@ -1,4 +1,5 @@
-# wordle-clone-Game
+# wordle-clone-Game  
+used:  Html,CSS,Javascript
 Game
 Wordle is a popular online word puzzle game where players try to guess a five-letter word within six attempts. 
 The game provides feedback on each guess by indicating whether each letter in the guessed word is in the correct position (marked with green) or 
